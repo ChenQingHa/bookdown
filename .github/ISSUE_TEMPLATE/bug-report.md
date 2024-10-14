@@ -19,7 +19,7 @@ At last, if you have posted the same issue elsewhere, please mentioned it (with 
 
 ## Checklist
 
-When filing a _bug report_, please check the boxes below to confirm that you have provided us with the information we need. Have you:
+When filing a _bug report_, please check the boxes below to confirm that you have provided us with the information we need. Hav you:
 
 - [ ] [formatted your issue](https://yihui.org/issue/#please-format-your-issue-correctly) so it is easier for us to read?
 
